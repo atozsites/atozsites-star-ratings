@@ -1,0 +1,1 @@
+<?= \Atozsites\StarRating\view('star') ?>
